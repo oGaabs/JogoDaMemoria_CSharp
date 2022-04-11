@@ -4,7 +4,7 @@
 
 Este é um simples Jogo da Memória com o Tema: Linguagens de Programação, esse mesmo trabalho foi desenvolvido durante a matéria de Técnicas de Programação I para a professora Marcia no COTUCA.
 
-Claro que essa versão atual, foi refatorada e melhorada em termos de melhor legibilidade do código e implementação de novos conceitos como resources e optimizações, mas no commit "Initial Commit", está a versão original que foi entrega durante o curso, quando o projeto foi feito, a intenção era aplicar conceitos de manipulação imagens/arquivos, windows forms, vector/array, pesquisa binaria e organizar vetores, randomização e por fim, reconhecer e aprender a criar um app/jogo e fazer o seu design com o windows forms na linguagem c#.
+Claro que essa versão atual, foi refatorada e melhorada em termos de melhor legibilidade do código e implementação de novos conceitos como resources e optimizações, mas no commit (["Initial Commit"][initialcommit]), está a versão original que foi entrega durante o curso, quando o projeto foi feito, a intenção era aplicar conceitos de manipulação imagens/arquivos, windows forms, vector/array, pesquisa binaria e organizar vetores, randomização e por fim, reconhecer e aprender a criar um app/jogo e fazer o seu design com o windows forms na linguagem c#.
 
 ## Contributing
 
@@ -32,3 +32,4 @@ This project is licensed under the [MIT License][license].
 [discord]: https://discords.com/bio/p/punidc
 [license]: LICENSE
 [jogodamemoria]: https://user-images.githubusercontent.com/53992405/162666529-0194dbed-d424-4f3e-bcd4-fc3b2b6a708d.png
+[initialcommit]: https://github.com/PuniGC/JogoDaMemoria_CSharp/commit/f616cf5b7cdb1a0d399b6697ce502e9686b26c0a
